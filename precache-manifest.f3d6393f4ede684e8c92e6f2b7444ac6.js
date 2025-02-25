@@ -8,11 +8,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/afteruz_1.mp4"
   },
   {
-    "revision": "9ddc77a0ba2ae3124fad",
+    "revision": "d490839e2054d9100ab1",
     "url": "/css/about.4b4cdf67.css"
   },
   {
-    "revision": "a16d4b41b323bbade879",
+    "revision": "8ed3450a101a3aec8fbd",
     "url": "/css/app.6b135a08.css"
   },
   {
@@ -100,16 +100,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/vector14.8410c734.png"
   },
   {
-    "revision": "b906a59ef46f6ce3809cfa2d4b66b37c",
+    "revision": "342cc9e7b54ecc9907804a1e8659891a",
     "url": "/index.html"
   },
   {
-    "revision": "9ddc77a0ba2ae3124fad",
-    "url": "/js/about.dbe70d76.js"
+    "revision": "d490839e2054d9100ab1",
+    "url": "/js/about.b581e580.js"
   },
   {
-    "revision": "a16d4b41b323bbade879",
-    "url": "/js/app.1a6048ee.js"
+    "revision": "8ed3450a101a3aec8fbd",
+    "url": "/js/app.33a20398.js"
   },
   {
     "revision": "5f9b369925d3152bd0e5",
