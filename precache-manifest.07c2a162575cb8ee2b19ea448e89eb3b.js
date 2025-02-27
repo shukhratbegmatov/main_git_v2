@@ -8,11 +8,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/afteruz_1.mp4"
   },
   {
-    "revision": "396fdeeceba60a02d440",
-    "url": "/css/about.84ee39ed.css"
+    "revision": "5be2dff2100ead47d5ad",
+    "url": "/css/about.89c4072e.css"
   },
   {
-    "revision": "69a787f764b2e98d8970",
+    "revision": "0e9f91c6d5a411fbd912",
     "url": "/css/app.6a30db8d.css"
   },
   {
@@ -100,16 +100,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/vector14.8410c734.png"
   },
   {
-    "revision": "42b3b2375699ea75c88191ba8dd08d26",
+    "revision": "4b99236d104034c29a692aef4b635fae",
     "url": "/index.html"
   },
   {
-    "revision": "396fdeeceba60a02d440",
-    "url": "/js/about.ca0be4e0.js"
+    "revision": "5be2dff2100ead47d5ad",
+    "url": "/js/about.99669eff.js"
   },
   {
-    "revision": "69a787f764b2e98d8970",
-    "url": "/js/app.2a6f0988.js"
+    "revision": "0e9f91c6d5a411fbd912",
+    "url": "/js/app.000044a3.js"
   },
   {
     "revision": "5f9b369925d3152bd0e5",
